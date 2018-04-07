@@ -1,2 +1,16 @@
 # Smart-Engineer-hackathon
-This repository contains the solution for a data science competition organised by Hackerearth. It contains feature engineering and modeling of a regression problem.
+
+## Introducton
+This online competition was organised by hackerearth. It contains a regression problem. There are four predictor variables which are all numeric and we have to predict the target variable.
+
+## Section
+1. Exploratory analysis.
+2. Feature engineering.
+3. Modelling.
+    1. Polynomial regression
+    2. Ridge regression
+
+
+## Evaluation
+The evaluation metric considered is rmse( root mean squared error ). r_squared coefficient are also calculated but the parameters are tuned based on the rmse score.
+
