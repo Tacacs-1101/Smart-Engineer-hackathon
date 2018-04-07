@@ -1,7 +1,7 @@
 # Smart-Engineer-hackathon
 
 ## Introducton
-This online competition was organised by hackerearth. It contains a regression problem. There are four predictor variables which are all numeric and we have to predict the target variable.
+This online competition was organised by hackerearth. It contains a regression problem. There are four predictor variables which are all numeric and we have to predict the target variable. The dataset can be downloaded from the repository.
 
 ## Section
 1. Exploratory analysis.
